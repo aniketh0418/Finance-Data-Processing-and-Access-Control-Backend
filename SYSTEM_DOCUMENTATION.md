@@ -65,7 +65,7 @@ Synthesizes raw transactional data into actionable insights.
 
 ## 5. Directory Structure
 ```text
-zorvyn/
+Finance-Data-Processing-and-Access-Control-Backend/
 ├── config/
 │   └── database.py        # MongoDB initialization, connection pooling, and configuration
 ├── core/

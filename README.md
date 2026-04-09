@@ -154,4 +154,4 @@ Retrieves aggregated financial analytics, suitable for visualization.
     }
   }
   ```
-### For information related to System Design, please visit -> [System Documentation]()
+### For information related to System Design, please visit -> [Finance Data Processing and Access Control Backend - System Documentation](SYSTEM_DOCUMENTATION.md)

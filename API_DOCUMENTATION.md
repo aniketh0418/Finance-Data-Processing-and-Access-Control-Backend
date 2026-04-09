@@ -1,6 +1,6 @@
-# Zorvyn Finance Analytics API Documentation
+# Finance Data Processing and Access Control Backend
 
-Welcome to the Zorvyn Finance Analytics API documentation! This guide provides a comprehensive overview of the available endpoints, required parameters, and response structures. Additionally, you will find a "Trial Guidance" section to help you get started testing the system immediately.
+Welcome to the API documentation! This guide provides a comprehensive overview of the available endpoints, required parameters, and response structures. Additionally, you will find a "Trial Guidance" section to help you get started testing the system immediately.
 
 ---
 

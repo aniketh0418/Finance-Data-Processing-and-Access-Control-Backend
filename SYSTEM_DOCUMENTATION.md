@@ -5,7 +5,7 @@ This document provides a holistic view of the internal construction, module brea
 ---
 
 ## 1. System Overview
-Zorvyn is a modular, high-performance financial data processing API. It is designed around the principles of **FastAPI** leveraging asynchronous I/O with **MongoDB** to deliver fast, secure, and scalable endpoints for tracking incomes, expenses, and synthesizing financial dashboards via role-based access control (RBAC).
+This is a modular, high-performance financial data processing API. It is designed around the principles of **FastAPI** leveraging asynchronous I/O with **MongoDB** to deliver fast, secure, and scalable endpoints for tracking incomes, expenses, and synthesizing financial dashboards via role-based access control (RBAC).
 
 ## 2. Technology Stack
 - **Framework:** FastAPI (Python 3.x)

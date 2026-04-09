@@ -154,4 +154,21 @@ Retrieves aggregated financial analytics, suitable for visualization.
     }
   }
   ```
+  
+---
+
+### 5. Secrets File Addition
+
+Before running the API do add a .env file with the below contents (replacing your proper credentials) in the home directory.
+
+```bash
+MONGODB_URL=<your_mongodb_connection_string_here>
+DATABASE_NAME=<your_databse_name_here>
+SECRET_KEY=uidlfhglkxjncvzds68fr7gh4x56b68dfs7hd5frg
+ALGORITHM=HS256
+ACCESS_TOKEN_EXPIRE_MINUTES=15
+```
+
+---
+
 ### For information related to System Design, please visit -> [Finance Data Processing and Access Control Backend - System Documentation](SYSTEM_DOCUMENTATION.md)

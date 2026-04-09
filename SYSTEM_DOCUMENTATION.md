@@ -1,6 +1,6 @@
 # Finance Data Processing and Access Control Backend
 
-This document provides a holistic view of the internal construction, module breakdown, and architectural decisions made for the Zorvyn Finance Analytics Backend. 
+This document provides a holistic view of the internal construction, module breakdown, and architectural decisions made for the Finance Analytics Backend. 
 
 ---
 
